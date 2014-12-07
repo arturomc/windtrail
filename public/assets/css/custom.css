@@ -1,0 +1,23 @@
+@import url(http://fonts.googleapis.com/css?family=Leckerli+One);
+
+body {
+    padding-top:50px;
+}
+
+a.navbar-brand{
+    font-size: 35px;
+    color: #00aedf;
+    font-family: 'Leckerli One', cursive;
+    -webkit-transition: all 1s;
+    -moz-transition: all    1s;
+    -ms-transition: all     1s;
+    -o-transition: all      1s;
+    transition: all         1s;
+}
+
+a.navbar-brand:hover{
+    font-size: 40px;
+    color: #fff;
+    background-color: #fff;
+}
+

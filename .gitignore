@@ -1,4 +1,4 @@
 node_modules
-public/vendor
+public/assets/vendor
 .idea
 *.iml
