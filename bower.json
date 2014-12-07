@@ -1,0 +1,11 @@
+{
+  "name": "windtrail",
+  "version": "0.0.1",
+  "author": "arturomc<4turo.m.c@gmail.com>",
+  "description": "awesome mvc oriented crud transaction framework for codebushido's projects",
+  "dependencies": {
+    "bootstrap": "latest",
+    "font-awesome": "latest",
+    "angular":"latest"
+  }
+}
